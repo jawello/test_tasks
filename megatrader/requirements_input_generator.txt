@@ -1,0 +1,5 @@
+certifi==2020.4.5.2
+Faker==4.1.1
+python-dateutil==2.8.1
+six==1.15.0
+text-unidecode==1.3
